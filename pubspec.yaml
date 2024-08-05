@@ -1,0 +1,17 @@
+name: select_meal_for_day
+description: A Dart package that selects meals for the day. Let us handle the randomness for you!
+version: 1.0.4
+homepage: https://github.com/my_org/my_repo
+repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  # Specify any regular dependencies your project needs here
+  # Example:
+  # http: ^0.13.4
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
